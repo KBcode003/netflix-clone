@@ -12,9 +12,9 @@ This project is created for learning purposes and portfolio showcase.
 
 ## 📸 Preview
 
-![Preview](preview.png)
-
----
+<p align="center">
+  <img src="./preview.png" width="900">
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -52,8 +52,8 @@ Netflix-Clone/
 │
 ├── index.html
 ├── styles.css
-├── images/
-└── README.md
+├── preview.png
+├── README.md
 
 
 ---
