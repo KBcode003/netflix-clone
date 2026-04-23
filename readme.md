@@ -6,7 +6,8 @@ This project is created for learning purposes and portfolio showcase.
 ---
 
 ## 🚀 Live Demo
-(Add your GitHub Pages or Netlify link here after deployment)
+
+👉 https://kbcode003.github.io/netflix-clone/
 
 ---
 
@@ -16,9 +17,7 @@ This project is created for learning purposes and portfolio showcase.
   <img src="./preview.png" width="900">
 </p>
 
-## 🚀 Live Demo
 
-👉 https://kbcode003.github.io/netflix-clone/
 
 ## 🛠️ Tech Stack
 
